@@ -1,11 +1,15 @@
 # CodingBear404Games
 
-## Gates Table Content
+## Main
 * Client
-    - [Launcher]()
+    - [Launcher](https://github.com/CodingBear404Games/launcher)
+    
+## Gates Table Content
+* Clients
     - [Main]()
-    - [RAID]()
-    - [Abyss]()
+    - [Abyss Raid]()
+    - [Pit MOBA]()
+    - [Traven Keep TCG]()
 * Websites
     - [Landingpage](https://github.com/CodingBear404Games/landingpage)
     - [Archivepage](https://github.com/CodingBear404Games/archivepage)
@@ -24,7 +28,7 @@
 * Blockchain
     - [Node](https://github.com/CodingBear404Games/gates-node)
 * Infrastructure
-    - [Platforms]()
+    - [Infrastructure]()
     - [Clients]()
     - [Websites]()
     - [APIs]()
