@@ -14,9 +14,6 @@
     - [Core](https://github.com/CodingBear404Games/client-gates-core)
 * Websites
     - [Landingpage](https://github.com/CodingBear404Games/site-landingpage)
-    - [Archivepage](https://github.com/CodingBear404Games/site-archivepage)
-    - [Marketplace](https://github.com/CodingBear404Games/site-marketplace)
-    - [Explorerpage](https://github.com/CodingBear404Games/site-explorerpage)
 * APIs
     - [Achievements](https://github.com/CodingBear404Games/api-achievements)
     - [Armors](https://github.com/CodingBear404Games/api-armors)
