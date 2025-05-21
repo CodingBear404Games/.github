@@ -13,7 +13,7 @@
     - [Traven Keep /(TCG/)](https://github.com/CodingBear404Games/client-gates-traven-keep)
     - [Core](https://github.com/CodingBear404Games/client-gates-core)
 * Websites
-    - [Landingpage](https://github.com/CodingBear404Games/site-landingpage)
+    - [Landingpage](https://github.com/CodingBear404Games/gates-landingpage)
 * APIs
     - [Achievements](https://github.com/CodingBear404Games/api-achievements)
     - [Armors](https://github.com/CodingBear404Games/api-armors)
