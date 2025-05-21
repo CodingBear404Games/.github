@@ -19,6 +19,7 @@
         <td><a href="https://github.com/CodingBear404Games/client-gates-traven-keep">Traven Keep (TCG)</td>
     </tr>
 </table>
+            
 * Clients Core
     - [Core](https://github.com/CodingBear404Games/client-gates-core)
 * Websites
@@ -42,6 +43,7 @@
         <td><a href="https://github.com/CodingBear404Games/api-weapons">Weapons</a></td>
     </tr>
 </table>
+
 * Blockchain
     - [Node](https://github.com/CodingBear404Games/blockchain-gates-node)
 * Infrastructure
