@@ -19,26 +19,29 @@
         <td><a href="https://github.com/CodingBear404Games/client-gates-traven-keep">Traven Keep (TCG)</td>
     </tr>
 </table>
-
 * Clients Core
     - [Core](https://github.com/CodingBear404Games/client-gates-core)
-   
-
-
 * Websites
     - [Landingpage](https://github.com/CodingBear404Games/gates-landingpage)
 * APIs
-    - [Achievements](https://github.com/CodingBear404Games/api-achievements)
-    - [Armors](https://github.com/CodingBear404Games/api-armors)
-    - [Artifacts](https://github.com/CodingBear404Games/api-artifacts)
-    - [Books](https://github.com/CodingBear404Games/api-books)
-    - [Characters](https://github.com/CodingBear404Games/api-characters)
-    - [Enermies](https://github.com/CodingBear404Games/api-enermies)
-    - [Items](https://github.com/CodingBear404Games/api-items)
-    - [Players](https://github.com/CodingBear404Games/api-players)
-    - [Servers](https://github.com/CodingBear404Games/api-servers)
-    - [Spells](https://github.com/CodingBear404Games/api-spells)
-    - [Weapons](https://github.com/CodingBear404Games/api-weapons)
+<table>
+    <tr>
+        <td><a href="https://github.com/CodingBear404Games/api-achievements">Achievements</a></td>
+        <td><a href="https://github.com/CodingBear404Games/api-armors">Armors</a></td>
+        <td><a href="https://github.com/CodingBear404Games/api-artifacts">Artifacts</a></td>
+        <td><a href="https://github.com/CodingBear404Games/api-books">Books</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodingBear404Games/api-characters">Characters</a></td>
+        <td><a href="https://github.com/CodingBear404Games/api-enermies">Enermies</a></td>
+        <td><a href="https://github.com/CodingBear404Games/api-items">Items</a></td>
+        <td><a href="https://github.com/CodingBear404Games/api-players">Servers</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://github.com/CodingBear404Games/api-spells">Spells</a></td>
+        <td><a href="https://github.com/CodingBear404Games/api-weapons">Weapons</a></td>
+    </tr>
+</table>
 * Blockchain
     - [Node](https://github.com/CodingBear404Games/blockchain-gates-node)
 * Infrastructure
