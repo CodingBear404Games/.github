@@ -6,12 +6,25 @@
     
 ## Gates Table Content
 * Clients
-    - [Main](https://github.com/CodingBear404Games/client-gates-main)
-    - [Abyss (Raid)](https://github.com/CodingBear404Games/client-gates-abyss)
-    - [Pit (MOBA)](https://github.com/CodingBear404Games/client-gates-pit)
-    - [Calamity (Survival)](https://github.com/CodingBear404Games/client-gates-calamity)
-    - [Traven Keep (TCG)](https://github.com/CodingBear404Games/client-gates-traven-keep)
+<table>
+    <tr>
+        <td><a href="https://github.com/CodingBear404Games/client-gates-main">Main</a></td>
+        <td><a href="https://github.com/CodingBear404Games/client-gates-abyss">Abyss (Raid)</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodingBear404Games/client-gates-pit">Pit (MOBA)</a></td>
+        <td><a href="https://github.com/CodingBear404Games/client-gates-calamity">Calamity (Survival)</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodingBear404Games/client-gates-traven-keep">Traven Keep (TCG)</td>
+    </tr>
+</table>
+
+* Clients Core
     - [Core](https://github.com/CodingBear404Games/client-gates-core)
+   
+
+
 * Websites
     - [Landingpage](https://github.com/CodingBear404Games/gates-landingpage)
 * APIs
